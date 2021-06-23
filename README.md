@@ -12,6 +12,16 @@ During my tensure at Binford research Labs, I have worked and gained experience 
 6. MavLink Protocol 
 7. Embedded Systems and their deployment 
 
+## Project Highligh Pictures 
+Some of the pictures highlighting the project 
+<p align = 'center'>
+<img width="800" alt="Screenshot 2021-06-23 at 10 49 00 PM" src="https://user-images.githubusercontent.com/81710149/123140753-493e1680-d475-11eb-851a-9b30b983e231.png">
+<img width="800" alt="Screenshot 2021-06-23 at 10 50 07 PM" src="https://user-images.githubusercontent.com/81710149/123140842-64108b00-d475-11eb-9485-8447721230ad.png">
+<img width="800" alt="Screenshot 2021-06-23 at 10 51 01 PM" src="https://user-images.githubusercontent.com/81710149/123141073-991cdd80-d475-11eb-8a70-062d93c7afa5.png">
+<img width="800" alt="Screenshot 2021-06-23 at 10 53 30 PM" src="https://user-images.githubusercontent.com/81710149/123141282-dbdeb580-d475-11eb-9f01-870b8bcd5e40.png">
+</p>
+
+
 ## Pixhawk 
 Pixhawk is a flight controller which is based on the Proportial Integral Differential Algorithm and is used as the brain of an unmanned aerial system. 
 
