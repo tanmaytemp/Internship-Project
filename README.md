@@ -1,6 +1,6 @@
 # Real Time Obstacle Avoidance for Unmanned Aerial Vehicles 
 
-During my tensure at DRDO, I have worked and gained experience extensively on commerical and industrial unmanned aerial vehicles and their maneuverability. Due to this project being a direct work product of the company the code in the source file serves only boilerplate functionality. In this repository I would like to emphasise on the various technologies I have worked on and used during my internship tenure 
+During my tenure at DRDO, I have worked and gained experience extensively on commerical and industrial unmanned aerial vehicles and their maneuverability. Due to this project being a direct work product of the company the code in the source file serves only boilerplate functionality. In this repository I would like to emphasise on the various technologies I have worked on and used during my internship tenure 
 
 ## Technologies 
 
